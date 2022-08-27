@@ -1,0 +1,6 @@
+print ("Welcome to the Band Name Generator Bot!!!")
+x = input ("What is the name of the city you were born in?\n")
+y = input ("What is the name of the name of your pet?\n")
+z = input ("Year of the band creation?\n")
+print (x + " " + y + " " + z)
+print ("This name sounds great!!!")
